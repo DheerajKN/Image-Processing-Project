@@ -1,6 +1,6 @@
 # Image-Processing-Project
 
-## Ever wonder why the images you capture on your Phone or DSLR's get Noisy Images even when you used tripod or used other safety precautions. It's not your fault but it might be the defect or aging of Semi-Conductor material or disturbances in the Environment that creates such images. So if the System would be smart enough to detect Noisy Image and implement the best Noise Removal Algorithm to give the User High Quality Images who would you feel. Thus our Project!!
+###  Even after your best efforts you couldn't get the best Quality Image!! and your wishing to have a System to be smart enough to detect Noisy Image and implement the best Noise Removal Algorithm to give the User High Quality Images. What if I say that it's Possible. That's our Project!!
 
 Contents
  - [Objective](#objective)
@@ -22,7 +22,7 @@ Developed with languages and frameworks of **C, GTK and OpenGL** and works with 
 * Then implement the main file in the system and run the code
 
 ### Advantages of Using the System
-Daily day used Camera Image Sensor could be damaged or Hamphered due to any reason thus resulting in Noisy Images. Thus Noise Removal Algorithms could come in handy.
+Ever wonder why the images you capture on your Phone or DSLR's get Noisy Images even when you used tripod or used other safety precautions. It's not your fault but it might be the defect or aging of Semi-Conductor material or disturbances in the Environment that creates such images. Thus Noise Removal Algorithms could come in handy.
 So in that scenario, there isn't any particular Algorithm that could be implemented in any Noisy Case. So our System would automatically detect which Algorithm gives the best result and applies that Algorithm on the Image thus producing better Quality Images on the Go.
 
 ### Contributors:
