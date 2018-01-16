@@ -1,16 +1,19 @@
 # Image-Processing-Project
 
+## Ever wonder why the images you capture on your Phone or DSLR's get Noisy Images even when you used tripod or used other safety precautions. It's not your fault but it might be the defect or aging of Semi-Conductor material or disturbances in the Environment that creates such images. So if the System would be smart enough to detect Noisy Image and implement the best Noise Removal Algorithm to give the User High Quality Images who would you feel. Thus our Project!!
+
 Contents
- - [Objective](#the-main-objective)
+ - [Objective](#objective)
  - [Languages](#languages)
  - [Accessing the Program](#how-to-access-the-system)
  - [Why do we need such a System](#advantages-of-using-the-system)
  - [Contributors](#contributors)
  
-## The Main Objective of the Project is to help the user to judge the best Noise Removal Algorithm for a particular image accessed over an Graphical UI that makes it is easy to use and gives results as needed.
+### Objective
+The Main Objective of the Project is to help the user to judge the best Noise Removal Algorithm for a particular image accessed over an Graphical UI that makes it is easy to use and gives results as needed.
 
 ### Languages
-Developed with languages and frameworks of **C, GTK and OpenGL** works with *16bit bitmap images* when passed to the system gives the result across 6 different Noise Removal Algorithms implemented in the system that provides statistical Graphic result over commonly found Salt & Pepper and Guassian Noise Models.
+Developed with languages and frameworks of **C, GTK and OpenGL** and works with *16bit bitmap image format* when passed to the system gives the result across 6 different Noise Removal Algorithms implemented in the system that provides statistical Graphic result over commonly found Salt & Pepper and Guassian Noise Models.
 
 ### How to access the System
 * Use any IDE like CodeBlocks and integrate C language in it
