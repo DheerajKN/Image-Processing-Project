@@ -26,7 +26,7 @@ Ever wonder why the images you capture on your Phone or DSLR's get Noisy Images 
 So in that scenario, there isn't any particular Algorithm that could be implemented in any Noisy Case. So our System would automatically detect which Algorithm gives the best result and applies that Algorithm on the Image thus producing better Quality Images on the Go.
 
 ## Important Note
-Also the user would include the Git link used and Contributor's name in their work.
+Any user using this Repo should include this Git link and Contributor's name in their work.
 
 ### Contributors:
   K.N.Dheeraj (kndheeraj0@gmail.com)
