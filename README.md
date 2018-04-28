@@ -4,6 +4,7 @@
 
 Contents
  - [Objective](#objective)
+ - [Research Paper](#research-paper)
  - [Languages](#languages)
  - [Accessing the Program](#how-to-access-the-system)
  - [Why do we need such a System](#advantages-of-using-the-system)
@@ -11,6 +12,11 @@ Contents
  
 ### Objective
 The Main Objective of the Project is to help the user to judge the best Noise Removal Algorithm for a particular image accessed over an Graphical UI that makes it is easy to use and gives results as needed.
+
+### Research Paper
+Research Paper of the same has written and published to IJCA (Internal Journal of Computer Applications): 
+Digital Library URI : http://www.ijcaonline.org/proceedings/icrdsthm2017/number1/29309-7006
+ISBN : 973-93-80975-26-2
 
 ### Languages
 Developed with languages and frameworks of **C, GTK and OpenGL** and works with *16bit bitmap image format* when passed to the system gives the result across 6 different Noise Removal Algorithms implemented in the system that provides statistical Graphic result over commonly found Salt & Pepper and Guassian Noise Models.
