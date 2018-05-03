@@ -1,10 +1,10 @@
 # Image-Processing-Project
 
-###  Even after your best efforts you couldn't get the best Quality Image!! and your wishing to have a System to be smart enough to detect Noisy Image and implement the best Noise Removal Algorithm to give the User High Quality Images. What if I say that it's Possible. That's our Project!!
+###  Even after your best efforts you couldn't get the best Quality Image!! and you are wishing to have a System to be smart enough to detect Noisy Image and implement the best Noise Removal Algorithm to give the User High Quality Images. What if I say that it's Possible. That's our Project!!
 
 Contents
  - [Objective](#objective)
- - [Research Paper](#research-paper)
+ - [Conference Paper](#conference-paper)
  - [Languages](#languages)
  - [Accessing the Program](#how-to-access-the-system)
  - [Why do we need such a System](#advantages-of-using-the-system)
@@ -13,8 +13,8 @@ Contents
 ### Objective
 The Main Objective of the Project is to help the user to judge the best Noise Removal Algorithm for a particular image accessed over an Graphical UI that makes it is easy to use and gives results as needed.
 
-### Research Paper
-Research Paper of the same has written and published to IJCA (Internal Journal of Computer Applications): 
+### Conference Paper
+Conference Paper of the same has written and published to IJCA (Internal Journal of Computer Applications): 
 Digital Library URI : http://www.ijcaonline.org/proceedings/icrdsthm2017/number1/29309-7006
 ISBN : 973-93-80975-26-2
 
